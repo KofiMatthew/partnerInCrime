@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/KofiMatthew/partnerInCrime/issues"
   },
-  "homepage": "https://github.com/KofiMatthew/partnerInCrime#readme"
+  "homepage": "https://github.com/KofiMatthew/partnerInCrime#readme",
+  "dependencies": {
+    "chosen-js": "^1.8.7",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
 }

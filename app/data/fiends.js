@@ -74,7 +74,39 @@ var fiends = [
             4,
             3
         ]
-    }
+    },
+{
+"name": "John Wick",
+"photo": "https://pixel.nymag.com/imgs/daily/vulture/2017/02/07/07-john-wick-2-2.w700.h700.jpg",
+"scores": [
+"2",
+"4",
+"2",
+"4",
+"1",
+"4",
+"5",
+"1",
+"5",
+"2"
+]
+},
+{
+"name": "Kofi",
+"photo": "https://kofimatthew.github.io/assets/imgs/profPic.png",
+"scores": [
+"4",
+"3",
+"3",
+"2",
+"4",
+"2",
+"3",
+"4",
+"2",
+"2"
+]
+}
 ];
 
 module.exports = fiends;

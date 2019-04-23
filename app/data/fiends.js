@@ -1,4 +1,4 @@
-var fiendArray = [
+var fiends = [
     {
         "name":"Ahmed",
         "photo":"https://vignette.wikia.nocookie.net/p__/images/1/12/Achmed_the_Dead_Terrorist.jpg/revision/latest/scale-to-width-down/200?cb=20150207025434&path-prefix=protagonist",
@@ -7,14 +7,75 @@ var fiendArray = [
             5,
             2,
             5,
-            5,
+            4,
             1,
             3,
             1,
             2,
             4
         ]
+    },{
+        "name":"Danny",
+        "photo":"https://amp.thisisinsider.com/images/5a392480d03e2de6028b4574-960-720.jpg",
+        "scores":[
+            5,
+            3,
+            4,
+            2,
+            5,
+            3,
+            2,
+            2,
+            1,
+            4
+        ]
+    },{
+        "name":"Parker",
+        "photo":"https://i.pinimg.com/originals/70/94/4c/70944c04580bd1886449044fc31fffa9.jpg",
+        "scores":[
+            5,
+            5,
+            5,
+            1,
+            2,
+            4,
+            1,
+            3,
+            3,
+            5
+        ]
+    },{
+        "name":"Elliot",
+        "photo":"https://fsmedia.imgix.net/ff/80/a2/55/6153/440f/b89e/31dd00b42fba/nup1787091488jpg.jpeg?auto=format%2Ccompress&h=1200&w=1200&crop=edges&fit=crop",
+        "scores":[
+            2,
+            3,
+            4,
+            2,
+            5,
+            1,
+            5,
+            5,
+            1,
+            1
+        ]
+    },{
+        "name":"Handome Rob",
+        "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjGhIe94ebhAhXfHjQIHQ5xBikQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F271412315015281227%2F&psig=AOvVaw3nXAWNENhPnFsIMz_j0ZcL&ust=1556127660141136",
+        "scores":[
+            2,
+            3,
+            2,
+            3,
+            2,
+            5,
+            4,
+            1,
+            4,
+            3
+        ]
     }
 ];
 
-module.exports = fiendArray;
+module.exports = fiends;
+

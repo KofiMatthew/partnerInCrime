@@ -30,8 +30,7 @@ module.exports = function(app) {
 
         totalDifference += Math.abs(parseInt(currentUserScore) - parseInt(currentFiendScore));
       }
-
-      // I chose to take the most different 'fiend'... because you'd need someone with different skill sets, not the same. ;-)
+      
       if (totalDifference <= bestMatch.fiendDifference) {
         bestMatch.name = currentFiend.name;
         bestMatch.photo = currentFiend.photo;

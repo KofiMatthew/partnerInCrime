@@ -61,7 +61,7 @@ var fiends = [
         ]
     },{
         "name":"Handome Rob",
-        "photo":"https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjGhIe94ebhAhXfHjQIHQ5xBikQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F271412315015281227%2F&psig=AOvVaw3nXAWNENhPnFsIMz_j0ZcL&ust=1556127660141136",
+        "photo":"http://fanzone50.com/caps1/ItalJob_jpg/ItalianJob_018.jpg",
         "scores":[
             2,
             3,

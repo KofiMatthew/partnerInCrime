@@ -60,7 +60,7 @@ var fiends = [
             1
         ]
     },{
-        "name":"Handome Rob",
+        "name":"Handsome Rob",
         "photo":"http://fanzone50.com/caps1/ItalJob_jpg/ItalianJob_018.jpg",
         "scores":[
             2,
